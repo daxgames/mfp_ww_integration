@@ -2,8 +2,9 @@
 Now Weight Watchers Points show up to the right of my diary in MyFitnessPal Diary in Chrome and Firefox browsers.
 
 ##Credits
-Here is the [post](http://community.myfitnesspal.com/en/discussion/822197/how-to-track-weight-watchers-points-on-mfp) to the discussion where I found this.
-and [another](http://www.3fatchicks.com/forum/weight-watchers/296500-heres-how-make-ww-points-show-up-my-fitness-pal-count-points-free.html).
+Here is the [post](http://community.myfitnesspal.com/en/discussion/822197/how-to-track-weight-watchers-points-on-mfp) to the discussion where I found this and [another](http://www.3fatchicks.com/forum/weight-watchers/296500-heres-how-make-ww-points-show-up-my-fitness-pal-count-points-free.html).
+
+This is the [link](http://userscripts-mirror.org/scripts/show/122949) to the original authors, I think, userscript page.
 
 ##Requirements
 
